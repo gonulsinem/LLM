@@ -1,6 +1,7 @@
 # LLM
 
 🔹 tokenizer_01.ipynb
+
 🔹 tokenizer_02.ipynb
 
 Kodlarında tokenizer (parçalayıcı) kavramına giriş yapılmış ve farklı yöntemlerle tokenizer oluşturma, kullanma ve yönetme işlemleri ele alınmıştır.
@@ -15,7 +16,7 @@ Encoding (metni token'lara dönüştürme) ve decoding (token'lardan metin elde 
 
 Özel bir vocabulary (sözlük) oluşturulmuş, bu sözlük JSON formatına dönüştürülerek kullanım senaryoları gösterilmiştir.
 
-Not defterindeki çıktı örnekleri, tokenizer klasörü altında yer almaktadır.
+Çıktı örnekleri, tokenizer klasörü altında yer almaktadır.
 
 🔹 tokenizer.py
 
