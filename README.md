@@ -24,4 +24,8 @@ Custom (özelleştirilmiş) bir Tokenizer sınıfı sıfırdan yazılmıştır.
 
 Bu sınıf, temel tokenizer mantığını anlamak ve özel ihtiyaçlara yönelik tokenizer'lar geliştirmek için örnek teşkil etmektedir.
 
+🔹 embedding.ipynb 
+
+ Embedding konusu hakkında temel anlatımlar ve kodlamalar içermektedir.
+
 ------------------------------------------------------------------------------------
